@@ -1,4 +1,2 @@
 # hawks_fashion
-This Project was done by a group of 3 that was tasked to make a any type of website and we chose to make a e-commerce website that would sell our university's clothing.
-What is not completly finished was our checkout page since the project was a 2 week long project and we were running out of time on completing some minor details. However
-all the functions that our group wanted to implement is in the website such as adding, editing, as well as deleting products.
+Colaborated with a team of 2 to make a e-commerce website that sell our college clothing. This website showed two view points the customer side as well as the admin side. The customer side is able to see the current products that was added by the admin as well as add items to the cart were they can finalized the purchase. as for the admin view point they are able to see any current products as well as add, edit, an delete produts. The edit and delete feature is also applied to users accounts. Overall my conttrobution for this project is creating the admin page with all its functionalities as well as created the products page for the customer view.
